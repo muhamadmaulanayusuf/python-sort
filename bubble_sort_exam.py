@@ -1,5 +1,5 @@
-#Andika Pratama
-#10109007
+#Maulana Yusuf
+#10109034
 
 def bubble_sort(arr):
     n = len(arr)
