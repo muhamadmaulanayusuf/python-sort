@@ -1,5 +1,5 @@
-#Andika Pratama
-#10109007
+#Maulana Yusuf
+#10109034
 
 def bubble_sort_descending(arr):
     n = len(arr)
